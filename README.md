@@ -10,7 +10,7 @@ I have provided several resources for learning about transformers.
 * Python notebook, _LLMTesting_QandA.ipynb_, that demonstrates methods for testing LLMs (decoders) ability to perform **Question and Answer (Q&A) tasks** (Reasoning).
   * Requires access to the LLM you desire to test.
   * Testing data is accessed via API
-* Python notebook, _LLMTesting_NER.ipynb_, that demonstrates methods for testing LLMs (decoders) ability to perform **Summarization tasks** (Reasoning and Generation).
+* Python notebook, _LLMTesting_Summarization.ipynb_, that demonstrates methods for testing LLMs (decoders) ability to perform **Summarization tasks** (Reasoning and Generation).
   * Requires access to the LLM you desire to test.
   * Testing data is accessed via API
 
