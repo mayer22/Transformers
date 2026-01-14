@@ -1,12 +1,12 @@
-# Word Embedding Resources
-I have provided several resources for learning about word embeddings, specifically word2vec.
+# Transformer Resources
+I have provided several resources for learning about transformers.
 
-* Lecture slides, _NLPLecture_, that introduce and explain word embeddings. They also compare word2vec to other NLP techniques and demonstrate its importance to NLP through examples and visualizations.
-* Python notebook, _TrainW2V_KerasRoyal_, that demonstrates how word embeddings are created from scratch (using keras) along with a small corresponding input data file, _royalData_.
-* Python notebook, _TrainW2V_GenSimText8_, that demonstrates training a much larger word embedding model (using gensim) on an API accessible dataset.
+* Lecture slides, _TransformerLecture_, that introduce and explain transformers building from embeddings and generative AI. It covers theory, use, and considerations.
+* Python notebook, __, that demonstrates.
+* Python notebook, __, that demonstrates.
 
 Some additional links for exploring word embeddings
-* Demo: https://www.cs.cmu.edu/~dst/WordEmbeddingDemo/index.html
-* Tutorial: https://www.cs.cmu.edu/~dst/WordEmbeddingDemo/tutorial.html
-* Experiments: https://www.cs.cmu.edu/~dst/WordEmbeddingDemo/experiments.html
-* Published Paper: https://www.cs.cmu.edu/~dst/WordEmbeddingDemo/EAAI-2022-Word-Embedding.pdf
+* Explanation of transformer architecture with a link to code for exploration: https://jalammar.github.io/illustrated-transformer/
+* Visual exploration of Transformer architecture: https://poloclub.github.io/transformer-explainer/
+* Another visual exploration of Transformer architecture: https://bbycroft.net/llm
+* Tool for visualizing attention weights: https://amanvir.com/gpt-2-attention
